@@ -336,7 +336,6 @@ nav a:hover {
     transform: scale(1.08);
 }
 
-/* LOCATION BOX */
 .location-box{
     width: 80%;
     margin: 40px auto;
@@ -347,7 +346,6 @@ nav a:hover {
     text-align: center;
 }
 
-/* MAP */
 .map-frame{
     width: 100%;
     height: 350px;
@@ -355,7 +353,6 @@ nav a:hover {
     border-radius: 12px;
 }
 
-/* ADDRESS */
 .address{
     margin-top: 20px;
     font-size: 18px;
